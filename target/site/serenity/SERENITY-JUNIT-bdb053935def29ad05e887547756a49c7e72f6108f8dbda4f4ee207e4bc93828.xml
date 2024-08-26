@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Crear y Buscar Pedidos de PetStore" skipped="0" tests="12" time="10.15" timestamp="2024-08-26 12:51:55"><testcase name="Realizar un Pedido //POST"/><testcase name="Buscar Pedido //GET"/></testsuite>
